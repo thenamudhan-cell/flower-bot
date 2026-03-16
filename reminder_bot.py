@@ -10,7 +10,7 @@ from email.mime.image import MIMEImage
 
 
 sender_email = "thenamudhan111@gmail.com"
-receiver_email = "thenamudhan111@gmail.com"
+receiver_email = "gayathrideviraja2001@gmail.com"
 app_password = "qqdx rhzl tyjj aqwl"
 
 
