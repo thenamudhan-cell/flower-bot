@@ -1,4 +1,4 @@
-name: name: Daily Flower Mail v2
+name: name: Daily Flower Mail
 
 on:
   schedule:
