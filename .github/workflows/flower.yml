@@ -2,7 +2,7 @@ name: Daily Flower Mail
 
 on:
   schedule:
-    - cron: '30 3 * * *'   # 9:00 AM India time
+    - cron: '*/5 * * * *'   # 9:00 AM India time
   workflow_dispatch:
 
 jobs:
