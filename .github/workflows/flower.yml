@@ -2,8 +2,6 @@ name: Daily Flower Mail
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '*/5 * * * *'
 
 jobs:
   run-script:
